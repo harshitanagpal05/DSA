@@ -10,39 +10,23 @@
  */
 class Solution {
     public ListNode reverseBetween(ListNode head, int left, int right) {
-        if(head == null || left == right){
-            return head;
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
+        ListNode prev = dummy;
+        // reach just before left pos
+        for(int i=1; i<left; i++){
+            prev = prev.next;
         }
-        ListNode t = head;
-        ListNode before = null;
-        int pos = 1;
-        while(t!=null){ // reach the left pos
-            if(pos<left){
-                before = t;
-                t = t.next;
-                pos++;
-                continue;
-            }
-            break;
-        }
-        ListNode curr = t;
-        ListNode prev = null;
-        int times = right-left+1;
+        ListNode curr = prev.next;
 
-        // reverse the LL
-        while(times-- > 0){
+        //reverse
+        for(int i=0; i<right-left; i++){
             ListNode next = curr.next;
-            curr.next = prev;
-            prev = curr;
-            curr = next;
+            curr.next = next.next;
+            next.next = prev.next;
+            prev.next = next;
         }
-
-        // connect the links (main catch)
-        t.next = curr;
-        if(before != null){
-            before.next = prev;
-            return head;
-        }
-        return prev;
+        return dummy.next;
+        
     }
 }
