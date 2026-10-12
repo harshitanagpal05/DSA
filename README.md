@@ -9,4 +9,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/harshitanagpal05/DSA/tree/master/0024-swap-nodes-in-pairs) |
+## Hash Table
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/harshitanagpal05/DSA/tree/master/0389-find-the-difference) |
+## String
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/harshitanagpal05/DSA/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/harshitanagpal05/DSA/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/harshitanagpal05/DSA/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
