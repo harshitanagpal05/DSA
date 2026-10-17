@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/harshitanagpal05/DSA/tree/master/0389-find-the-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/harshitanagpal05/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshitanagpal05/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/harshitanagpal05/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/harshitanagpal05/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshitanagpal05/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/harshitanagpal05/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/harshitanagpal05/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Greedy
 |  |
@@ -54,8 +56,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshitanagpal05/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/harshitanagpal05/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshitanagpal05/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/harshitanagpal05/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
