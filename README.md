@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/harshitanagpal05/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0389-find-the-difference](https://github.com/harshitanagpal05/DSA/tree/master/0389-find-the-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/harshitanagpal05/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/harshitanagpal05/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/harshitanagpal05/DSA/tree/master/0219-contains-duplicate-ii) |
 | [1254-number-of-closed-islands](https://github.com/harshitanagpal05/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshitanagpal05/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshitanagpal05/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/harshitanagpal05/DSA/tree/master/1254-number-of-closed-islands) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/harshitanagpal05/DSA/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
