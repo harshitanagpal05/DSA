@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/harshitanagpal05/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshitanagpal05/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/harshitanagpal05/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/harshitanagpal05/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/harshitanagpal05/DSA/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshitanagpal05/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -118,4 +120,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/harshitanagpal05/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/harshitanagpal05/DSA/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/harshitanagpal05/DSA/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/harshitanagpal05/DSA/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
