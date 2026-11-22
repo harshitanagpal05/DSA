@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshitanagpal05/DSA/tree/master/0020-valid-parentheses) |
 | [0389-find-the-difference](https://github.com/harshitanagpal05/DSA/tree/master/0389-find-the-difference) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/harshitanagpal05/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2409-count-days-spent-together](https://github.com/harshitanagpal05/DSA/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/harshitanagpal05/DSA/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bit Manipulation
